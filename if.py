@@ -58,10 +58,3 @@ if ((1==1 and False)
 import random
 secret = random.randint(1, 10) # 返回1-10之间的随机数 [1, 10]
 print(secret)
-
-
-""" 
-上面代码为if
-下面代码为for
-"""
-
