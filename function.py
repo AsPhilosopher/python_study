@@ -17,3 +17,5 @@ def num1_c_num2(num1, num2):
     :return: 乘积
     """
     return num1 * num2
+
+name = "测试"
